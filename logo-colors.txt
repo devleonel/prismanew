@@ -1,0 +1,17 @@
+gris: 303030
+gris oscuro: 232322
+
+gama de violetas
+
+a907c6
+9e0ab8
+6b0793
+540a9e
+3f07b0
+
+gama de azules
+
+8a0fd0
+5b07b0
+3307b0
+1307b0
